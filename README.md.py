@@ -1,0 +1,1 @@
+# finding the series sum of a number
